@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\Dictionaries\LegendaryItems\bin\Debug\netcoreapp3.1\LegendaryItems.exe
+D:\VisualStudioProjects\Dictionaries\LegendaryItems\bin\Debug\netcoreapp3.1\LegendaryItems.deps.json
+D:\VisualStudioProjects\Dictionaries\LegendaryItems\bin\Debug\netcoreapp3.1\LegendaryItems.runtimeconfig.json
+D:\VisualStudioProjects\Dictionaries\LegendaryItems\bin\Debug\netcoreapp3.1\LegendaryItems.runtimeconfig.dev.json
+D:\VisualStudioProjects\Dictionaries\LegendaryItems\bin\Debug\netcoreapp3.1\LegendaryItems.dll
+D:\VisualStudioProjects\Dictionaries\LegendaryItems\bin\Debug\netcoreapp3.1\LegendaryItems.pdb
+D:\VisualStudioProjects\Dictionaries\LegendaryItems\obj\Debug\netcoreapp3.1\LegendaryItems.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Dictionaries\LegendaryItems\obj\Debug\netcoreapp3.1\LegendaryItems.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Dictionaries\LegendaryItems\obj\Debug\netcoreapp3.1\LegendaryItems.AssemblyInfo.cs
+D:\VisualStudioProjects\Dictionaries\LegendaryItems\obj\Debug\netcoreapp3.1\LegendaryItems.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Dictionaries\LegendaryItems\obj\Debug\netcoreapp3.1\LegendaryItems.dll
+D:\VisualStudioProjects\Dictionaries\LegendaryItems\obj\Debug\netcoreapp3.1\LegendaryItems.pdb
+D:\VisualStudioProjects\Dictionaries\LegendaryItems\obj\Debug\netcoreapp3.1\LegendaryItems.genruntimeconfig.cache

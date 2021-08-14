@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\Masterchef\Survivor\bin\Debug\netcoreapp3.1\Survivor.exe
+D:\VisualStudioProjects\Masterchef\Survivor\bin\Debug\netcoreapp3.1\Survivor.deps.json
+D:\VisualStudioProjects\Masterchef\Survivor\bin\Debug\netcoreapp3.1\Survivor.runtimeconfig.json
+D:\VisualStudioProjects\Masterchef\Survivor\bin\Debug\netcoreapp3.1\Survivor.runtimeconfig.dev.json
+D:\VisualStudioProjects\Masterchef\Survivor\bin\Debug\netcoreapp3.1\Survivor.dll
+D:\VisualStudioProjects\Masterchef\Survivor\bin\Debug\netcoreapp3.1\Survivor.pdb
+D:\VisualStudioProjects\Masterchef\Survivor\obj\Debug\netcoreapp3.1\Survivor.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Masterchef\Survivor\obj\Debug\netcoreapp3.1\Survivor.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Masterchef\Survivor\obj\Debug\netcoreapp3.1\Survivor.AssemblyInfo.cs
+D:\VisualStudioProjects\Masterchef\Survivor\obj\Debug\netcoreapp3.1\Survivor.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Masterchef\Survivor\obj\Debug\netcoreapp3.1\Survivor.dll
+D:\VisualStudioProjects\Masterchef\Survivor\obj\Debug\netcoreapp3.1\Survivor.pdb
+D:\VisualStudioProjects\Masterchef\Survivor\obj\Debug\netcoreapp3.1\Survivor.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\bin\Debug\net5.0\04.OddOrEven.exe
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\bin\Debug\net5.0\04.OddOrEven.deps.json
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\bin\Debug\net5.0\04.OddOrEven.runtimeconfig.json
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\bin\Debug\net5.0\04.OddOrEven.runtimeconfig.dev.json
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\bin\Debug\net5.0\04.OddOrEven.dll
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\bin\Debug\net5.0\ref\04.OddOrEven.dll
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\bin\Debug\net5.0\04.OddOrEven.pdb
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\obj\Debug\net5.0\04.OddOrEven.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\obj\Debug\net5.0\04.OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\obj\Debug\net5.0\04.OddOrEven.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\obj\Debug\net5.0\04.OddOrEven.AssemblyInfo.cs
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\obj\Debug\net5.0\04.OddOrEven.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\obj\Debug\net5.0\04.OddOrEven.dll
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\obj\Debug\net5.0\ref\04.OddOrEven.dll
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\obj\Debug\net5.0\04.OddOrEven.pdb
+D:\VisualStudioProjects\Functional Programming\04.OddOrEven\obj\Debug\net5.0\04.OddOrEven.genruntimeconfig.cache

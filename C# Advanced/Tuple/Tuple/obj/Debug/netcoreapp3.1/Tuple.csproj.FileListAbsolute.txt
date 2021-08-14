@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\Tuple\Tuple\bin\Debug\netcoreapp3.1\Tuple.exe
+D:\VisualStudioProjects\Tuple\Tuple\bin\Debug\netcoreapp3.1\Tuple.deps.json
+D:\VisualStudioProjects\Tuple\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.json
+D:\VisualStudioProjects\Tuple\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.dev.json
+D:\VisualStudioProjects\Tuple\Tuple\bin\Debug\netcoreapp3.1\Tuple.dll
+D:\VisualStudioProjects\Tuple\Tuple\bin\Debug\netcoreapp3.1\Tuple.pdb
+D:\VisualStudioProjects\Tuple\Tuple\obj\Debug\netcoreapp3.1\Tuple.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Tuple\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Tuple\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfo.cs
+D:\VisualStudioProjects\Tuple\Tuple\obj\Debug\netcoreapp3.1\Tuple.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Tuple\Tuple\obj\Debug\netcoreapp3.1\Tuple.dll
+D:\VisualStudioProjects\Tuple\Tuple\obj\Debug\netcoreapp3.1\Tuple.pdb
+D:\VisualStudioProjects\Tuple\Tuple\obj\Debug\netcoreapp3.1\Tuple.genruntimeconfig.cache

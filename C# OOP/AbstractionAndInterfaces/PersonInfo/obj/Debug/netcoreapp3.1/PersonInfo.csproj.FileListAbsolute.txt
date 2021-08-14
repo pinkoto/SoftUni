@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\AbstractionAndInterfaces\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+D:\VisualStudioProjects\AbstractionAndInterfaces\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+D:\VisualStudioProjects\AbstractionAndInterfaces\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+D:\VisualStudioProjects\AbstractionAndInterfaces\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+D:\VisualStudioProjects\AbstractionAndInterfaces\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+D:\VisualStudioProjects\AbstractionAndInterfaces\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\VisualStudioProjects\AbstractionAndInterfaces\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\AbstractionAndInterfaces\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\AbstractionAndInterfaces\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+D:\VisualStudioProjects\AbstractionAndInterfaces\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\AbstractionAndInterfaces\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+D:\VisualStudioProjects\AbstractionAndInterfaces\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+D:\VisualStudioProjects\AbstractionAndInterfaces\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache

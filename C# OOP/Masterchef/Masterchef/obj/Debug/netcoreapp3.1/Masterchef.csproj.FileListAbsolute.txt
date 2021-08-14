@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\Masterchef\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.exe
+D:\VisualStudioProjects\Masterchef\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.deps.json
+D:\VisualStudioProjects\Masterchef\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.runtimeconfig.json
+D:\VisualStudioProjects\Masterchef\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.runtimeconfig.dev.json
+D:\VisualStudioProjects\Masterchef\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.dll
+D:\VisualStudioProjects\Masterchef\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.pdb
+D:\VisualStudioProjects\Masterchef\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Masterchef\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Masterchef\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.AssemblyInfo.cs
+D:\VisualStudioProjects\Masterchef\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Masterchef\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.dll
+D:\VisualStudioProjects\Masterchef\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.pdb
+D:\VisualStudioProjects\Masterchef\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.genruntimeconfig.cache

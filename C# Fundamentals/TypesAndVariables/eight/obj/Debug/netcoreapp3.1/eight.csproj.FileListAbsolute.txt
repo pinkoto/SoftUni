@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\TypesAndVariables\eight\bin\Debug\netcoreapp3.1\eight.exe
+D:\VisualStudioProjects\TypesAndVariables\eight\bin\Debug\netcoreapp3.1\eight.deps.json
+D:\VisualStudioProjects\TypesAndVariables\eight\bin\Debug\netcoreapp3.1\eight.runtimeconfig.json
+D:\VisualStudioProjects\TypesAndVariables\eight\bin\Debug\netcoreapp3.1\eight.runtimeconfig.dev.json
+D:\VisualStudioProjects\TypesAndVariables\eight\bin\Debug\netcoreapp3.1\eight.dll
+D:\VisualStudioProjects\TypesAndVariables\eight\bin\Debug\netcoreapp3.1\eight.pdb
+D:\VisualStudioProjects\TypesAndVariables\eight\obj\Debug\netcoreapp3.1\eight.csprojAssemblyReference.cache
+D:\VisualStudioProjects\TypesAndVariables\eight\obj\Debug\netcoreapp3.1\eight.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\TypesAndVariables\eight\obj\Debug\netcoreapp3.1\eight.AssemblyInfo.cs
+D:\VisualStudioProjects\TypesAndVariables\eight\obj\Debug\netcoreapp3.1\eight.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\TypesAndVariables\eight\obj\Debug\netcoreapp3.1\eight.dll
+D:\VisualStudioProjects\TypesAndVariables\eight\obj\Debug\netcoreapp3.1\eight.pdb
+D:\VisualStudioProjects\TypesAndVariables\eight\obj\Debug\netcoreapp3.1\eight.genruntimeconfig.cache

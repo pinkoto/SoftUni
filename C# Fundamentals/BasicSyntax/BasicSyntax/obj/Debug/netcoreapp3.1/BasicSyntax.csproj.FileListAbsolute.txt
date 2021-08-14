@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\BasicSyntax\BasicSyntax\bin\Debug\netcoreapp3.1\BasicSyntax.exe
+D:\VisualStudioProjects\BasicSyntax\BasicSyntax\bin\Debug\netcoreapp3.1\BasicSyntax.deps.json
+D:\VisualStudioProjects\BasicSyntax\BasicSyntax\bin\Debug\netcoreapp3.1\BasicSyntax.runtimeconfig.json
+D:\VisualStudioProjects\BasicSyntax\BasicSyntax\bin\Debug\netcoreapp3.1\BasicSyntax.runtimeconfig.dev.json
+D:\VisualStudioProjects\BasicSyntax\BasicSyntax\bin\Debug\netcoreapp3.1\BasicSyntax.dll
+D:\VisualStudioProjects\BasicSyntax\BasicSyntax\bin\Debug\netcoreapp3.1\BasicSyntax.pdb
+D:\VisualStudioProjects\BasicSyntax\BasicSyntax\obj\Debug\netcoreapp3.1\BasicSyntax.csprojAssemblyReference.cache
+D:\VisualStudioProjects\BasicSyntax\BasicSyntax\obj\Debug\netcoreapp3.1\BasicSyntax.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\BasicSyntax\BasicSyntax\obj\Debug\netcoreapp3.1\BasicSyntax.AssemblyInfo.cs
+D:\VisualStudioProjects\BasicSyntax\BasicSyntax\obj\Debug\netcoreapp3.1\BasicSyntax.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\BasicSyntax\BasicSyntax\obj\Debug\netcoreapp3.1\BasicSyntax.dll
+D:\VisualStudioProjects\BasicSyntax\BasicSyntax\obj\Debug\netcoreapp3.1\BasicSyntax.pdb
+D:\VisualStudioProjects\BasicSyntax\BasicSyntax\obj\Debug\netcoreapp3.1\BasicSyntax.genruntimeconfig.cache

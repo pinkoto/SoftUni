@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.exe
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.deps.json
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.json
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.dev.json
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.dll
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.pdb
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfo.cs
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.dll
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.pdb
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+D:\VisualStudioProjects\01. CSharp-OOP-Inheritance-Exercise-Skeleton\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache

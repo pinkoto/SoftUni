@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\textprr\five\bin\Debug\netcoreapp3.1\five.exe
+D:\VisualStudioProjects\textprr\five\bin\Debug\netcoreapp3.1\five.deps.json
+D:\VisualStudioProjects\textprr\five\bin\Debug\netcoreapp3.1\five.runtimeconfig.json
+D:\VisualStudioProjects\textprr\five\bin\Debug\netcoreapp3.1\five.runtimeconfig.dev.json
+D:\VisualStudioProjects\textprr\five\bin\Debug\netcoreapp3.1\five.dll
+D:\VisualStudioProjects\textprr\five\bin\Debug\netcoreapp3.1\five.pdb
+D:\VisualStudioProjects\textprr\five\obj\Debug\netcoreapp3.1\five.csprojAssemblyReference.cache
+D:\VisualStudioProjects\textprr\five\obj\Debug\netcoreapp3.1\five.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\textprr\five\obj\Debug\netcoreapp3.1\five.AssemblyInfo.cs
+D:\VisualStudioProjects\textprr\five\obj\Debug\netcoreapp3.1\five.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\textprr\five\obj\Debug\netcoreapp3.1\five.dll
+D:\VisualStudioProjects\textprr\five\obj\Debug\netcoreapp3.1\five.pdb
+D:\VisualStudioProjects\textprr\five\obj\Debug\netcoreapp3.1\five.genruntimeconfig.cache

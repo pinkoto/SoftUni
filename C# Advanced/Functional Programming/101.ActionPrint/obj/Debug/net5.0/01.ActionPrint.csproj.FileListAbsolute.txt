@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\Functional Programming\101.ActionPrint\bin\Debug\net5.0\01.ActionPrint.exe
+D:\VisualStudioProjects\Functional Programming\101.ActionPrint\bin\Debug\net5.0\01.ActionPrint.deps.json
+D:\VisualStudioProjects\Functional Programming\101.ActionPrint\bin\Debug\net5.0\01.ActionPrint.runtimeconfig.json
+D:\VisualStudioProjects\Functional Programming\101.ActionPrint\bin\Debug\net5.0\01.ActionPrint.runtimeconfig.dev.json
+D:\VisualStudioProjects\Functional Programming\101.ActionPrint\bin\Debug\net5.0\01.ActionPrint.dll
+D:\VisualStudioProjects\Functional Programming\101.ActionPrint\bin\Debug\net5.0\ref\01.ActionPrint.dll
+D:\VisualStudioProjects\Functional Programming\101.ActionPrint\bin\Debug\net5.0\01.ActionPrint.pdb
+D:\VisualStudioProjects\Functional Programming\101.ActionPrint\obj\Debug\net5.0\01.ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\Functional Programming\101.ActionPrint\obj\Debug\net5.0\01.ActionPrint.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Functional Programming\101.ActionPrint\obj\Debug\net5.0\01.ActionPrint.AssemblyInfo.cs
+D:\VisualStudioProjects\Functional Programming\101.ActionPrint\obj\Debug\net5.0\01.ActionPrint.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Functional Programming\101.ActionPrint\obj\Debug\net5.0\01.ActionPrint.dll
+D:\VisualStudioProjects\Functional Programming\101.ActionPrint\obj\Debug\net5.0\ref\01.ActionPrint.dll
+D:\VisualStudioProjects\Functional Programming\101.ActionPrint\obj\Debug\net5.0\01.ActionPrint.pdb
+D:\VisualStudioProjects\Functional Programming\101.ActionPrint\obj\Debug\net5.0\01.ActionPrint.genruntimeconfig.cache

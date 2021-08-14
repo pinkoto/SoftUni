@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\Methods\three\bin\Debug\netcoreapp3.1\three.exe
+D:\VisualStudioProjects\Methods\three\bin\Debug\netcoreapp3.1\three.deps.json
+D:\VisualStudioProjects\Methods\three\bin\Debug\netcoreapp3.1\three.runtimeconfig.json
+D:\VisualStudioProjects\Methods\three\bin\Debug\netcoreapp3.1\three.runtimeconfig.dev.json
+D:\VisualStudioProjects\Methods\three\bin\Debug\netcoreapp3.1\three.dll
+D:\VisualStudioProjects\Methods\three\bin\Debug\netcoreapp3.1\three.pdb
+D:\VisualStudioProjects\Methods\three\obj\Debug\netcoreapp3.1\three.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Methods\three\obj\Debug\netcoreapp3.1\three.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Methods\three\obj\Debug\netcoreapp3.1\three.AssemblyInfo.cs
+D:\VisualStudioProjects\Methods\three\obj\Debug\netcoreapp3.1\three.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Methods\three\obj\Debug\netcoreapp3.1\three.dll
+D:\VisualStudioProjects\Methods\three\obj\Debug\netcoreapp3.1\three.pdb
+D:\VisualStudioProjects\Methods\three\obj\Debug\netcoreapp3.1\three.genruntimeconfig.cache

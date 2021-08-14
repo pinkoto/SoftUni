@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\Dictionaries\Courses\bin\Debug\netcoreapp3.1\Courses.exe
+D:\VisualStudioProjects\Dictionaries\Courses\bin\Debug\netcoreapp3.1\Courses.deps.json
+D:\VisualStudioProjects\Dictionaries\Courses\bin\Debug\netcoreapp3.1\Courses.runtimeconfig.json
+D:\VisualStudioProjects\Dictionaries\Courses\bin\Debug\netcoreapp3.1\Courses.runtimeconfig.dev.json
+D:\VisualStudioProjects\Dictionaries\Courses\bin\Debug\netcoreapp3.1\Courses.dll
+D:\VisualStudioProjects\Dictionaries\Courses\bin\Debug\netcoreapp3.1\Courses.pdb
+D:\VisualStudioProjects\Dictionaries\Courses\obj\Debug\netcoreapp3.1\Courses.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Dictionaries\Courses\obj\Debug\netcoreapp3.1\Courses.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Dictionaries\Courses\obj\Debug\netcoreapp3.1\Courses.AssemblyInfo.cs
+D:\VisualStudioProjects\Dictionaries\Courses\obj\Debug\netcoreapp3.1\Courses.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Dictionaries\Courses\obj\Debug\netcoreapp3.1\Courses.dll
+D:\VisualStudioProjects\Dictionaries\Courses\obj\Debug\netcoreapp3.1\Courses.pdb
+D:\VisualStudioProjects\Dictionaries\Courses\obj\Debug\netcoreapp3.1\Courses.genruntimeconfig.cache

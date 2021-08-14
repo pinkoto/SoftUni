@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\FundMidExam\first\bin\Debug\netcoreapp3.1\first.exe
+D:\VisualStudioProjects\FundMidExam\first\bin\Debug\netcoreapp3.1\first.deps.json
+D:\VisualStudioProjects\FundMidExam\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.json
+D:\VisualStudioProjects\FundMidExam\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.dev.json
+D:\VisualStudioProjects\FundMidExam\first\bin\Debug\netcoreapp3.1\first.dll
+D:\VisualStudioProjects\FundMidExam\first\bin\Debug\netcoreapp3.1\first.pdb
+D:\VisualStudioProjects\FundMidExam\first\obj\Debug\netcoreapp3.1\first.csprojAssemblyReference.cache
+D:\VisualStudioProjects\FundMidExam\first\obj\Debug\netcoreapp3.1\first.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\FundMidExam\first\obj\Debug\netcoreapp3.1\first.AssemblyInfo.cs
+D:\VisualStudioProjects\FundMidExam\first\obj\Debug\netcoreapp3.1\first.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\FundMidExam\first\obj\Debug\netcoreapp3.1\first.dll
+D:\VisualStudioProjects\FundMidExam\first\obj\Debug\netcoreapp3.1\first.pdb
+D:\VisualStudioProjects\FundMidExam\first\obj\Debug\netcoreapp3.1\first.genruntimeconfig.cache

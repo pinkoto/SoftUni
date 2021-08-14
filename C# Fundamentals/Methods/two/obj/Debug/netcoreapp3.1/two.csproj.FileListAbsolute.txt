@@ -1,0 +1,4 @@
+D:\VisualStudioProjects\Methods\two\obj\Debug\netcoreapp3.1\two.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Methods\two\obj\Debug\netcoreapp3.1\two.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Methods\two\obj\Debug\netcoreapp3.1\two.AssemblyInfo.cs
+D:\VisualStudioProjects\Methods\two\obj\Debug\netcoreapp3.1\two.csproj.CoreCompileInputs.cache

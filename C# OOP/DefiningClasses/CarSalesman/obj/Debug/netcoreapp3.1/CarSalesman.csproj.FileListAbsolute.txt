@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csprojAssemblyReference.cache
+D:\VisualStudioProjects\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfo.cs
+D:\VisualStudioProjects\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.exe
+D:\VisualStudioProjects\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.deps.json
+D:\VisualStudioProjects\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.json
+D:\VisualStudioProjects\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.dev.json
+D:\VisualStudioProjects\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.dll
+D:\VisualStudioProjects\DefiningClasses\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.pdb
+D:\VisualStudioProjects\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.dll
+D:\VisualStudioProjects\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.pdb
+D:\VisualStudioProjects\DefiningClasses\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.genruntimeconfig.cache

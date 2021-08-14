@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\MidExamNew\MidExamNew\bin\Debug\netcoreapp3.1\MidExamNew.exe
+D:\VisualStudioProjects\MidExamNew\MidExamNew\bin\Debug\netcoreapp3.1\MidExamNew.deps.json
+D:\VisualStudioProjects\MidExamNew\MidExamNew\bin\Debug\netcoreapp3.1\MidExamNew.runtimeconfig.json
+D:\VisualStudioProjects\MidExamNew\MidExamNew\bin\Debug\netcoreapp3.1\MidExamNew.runtimeconfig.dev.json
+D:\VisualStudioProjects\MidExamNew\MidExamNew\bin\Debug\netcoreapp3.1\MidExamNew.dll
+D:\VisualStudioProjects\MidExamNew\MidExamNew\bin\Debug\netcoreapp3.1\MidExamNew.pdb
+D:\VisualStudioProjects\MidExamNew\MidExamNew\obj\Debug\netcoreapp3.1\MidExamNew.csprojAssemblyReference.cache
+D:\VisualStudioProjects\MidExamNew\MidExamNew\obj\Debug\netcoreapp3.1\MidExamNew.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\MidExamNew\MidExamNew\obj\Debug\netcoreapp3.1\MidExamNew.AssemblyInfo.cs
+D:\VisualStudioProjects\MidExamNew\MidExamNew\obj\Debug\netcoreapp3.1\MidExamNew.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\MidExamNew\MidExamNew\obj\Debug\netcoreapp3.1\MidExamNew.dll
+D:\VisualStudioProjects\MidExamNew\MidExamNew\obj\Debug\netcoreapp3.1\MidExamNew.pdb
+D:\VisualStudioProjects\MidExamNew\MidExamNew\obj\Debug\netcoreapp3.1\MidExamNew.genruntimeconfig.cache

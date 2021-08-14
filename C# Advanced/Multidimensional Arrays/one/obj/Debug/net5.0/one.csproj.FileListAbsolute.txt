@@ -1,0 +1,16 @@
+D:\VisualStudioProjects\Multidimensional Arrays\one\bin\Debug\net5.0\one.exe
+D:\VisualStudioProjects\Multidimensional Arrays\one\bin\Debug\net5.0\one.deps.json
+D:\VisualStudioProjects\Multidimensional Arrays\one\bin\Debug\net5.0\one.runtimeconfig.json
+D:\VisualStudioProjects\Multidimensional Arrays\one\bin\Debug\net5.0\one.runtimeconfig.dev.json
+D:\VisualStudioProjects\Multidimensional Arrays\one\bin\Debug\net5.0\one.dll
+D:\VisualStudioProjects\Multidimensional Arrays\one\bin\Debug\net5.0\ref\one.dll
+D:\VisualStudioProjects\Multidimensional Arrays\one\bin\Debug\net5.0\one.pdb
+D:\VisualStudioProjects\Multidimensional Arrays\one\obj\Debug\net5.0\one.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Multidimensional Arrays\one\obj\Debug\net5.0\one.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\Multidimensional Arrays\one\obj\Debug\net5.0\one.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Multidimensional Arrays\one\obj\Debug\net5.0\one.AssemblyInfo.cs
+D:\VisualStudioProjects\Multidimensional Arrays\one\obj\Debug\net5.0\one.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Multidimensional Arrays\one\obj\Debug\net5.0\one.dll
+D:\VisualStudioProjects\Multidimensional Arrays\one\obj\Debug\net5.0\ref\one.dll
+D:\VisualStudioProjects\Multidimensional Arrays\one\obj\Debug\net5.0\one.pdb
+D:\VisualStudioProjects\Multidimensional Arrays\one\obj\Debug\net5.0\one.genruntimeconfig.cache

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Regex", "Regex\Regex.csproj", "{446ABBD4-ED45-4ADF-B81F-634B9D8E1934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Race", "Race\Race.csproj", "{86E3D68D-F499-45C2-8710-77AE46A71978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Softuni Bar Income", "Softuni Bar Income\Softuni Bar Income.csproj", "{07E5E1BC-A336-410D-BACF-32391586D8BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446ABBD4-ED45-4ADF-B81F-634B9D8E1934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446ABBD4-ED45-4ADF-B81F-634B9D8E1934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446ABBD4-ED45-4ADF-B81F-634B9D8E1934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446ABBD4-ED45-4ADF-B81F-634B9D8E1934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E3D68D-F499-45C2-8710-77AE46A71978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E3D68D-F499-45C2-8710-77AE46A71978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E3D68D-F499-45C2-8710-77AE46A71978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E3D68D-F499-45C2-8710-77AE46A71978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E5E1BC-A336-410D-BACF-32391586D8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E5E1BC-A336-410D-BACF-32391586D8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E5E1BC-A336-410D-BACF-32391586D8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E5E1BC-A336-410D-BACF-32391586D8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE3616DE-26EA-42B4-8B93-8E37EDE24118}
+	EndGlobalSection
+EndGlobal

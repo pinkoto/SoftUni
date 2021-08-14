@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\Dictionaries\four\bin\Debug\netcoreapp3.1\four.exe
+D:\VisualStudioProjects\Dictionaries\four\bin\Debug\netcoreapp3.1\four.deps.json
+D:\VisualStudioProjects\Dictionaries\four\bin\Debug\netcoreapp3.1\four.runtimeconfig.json
+D:\VisualStudioProjects\Dictionaries\four\bin\Debug\netcoreapp3.1\four.runtimeconfig.dev.json
+D:\VisualStudioProjects\Dictionaries\four\bin\Debug\netcoreapp3.1\four.dll
+D:\VisualStudioProjects\Dictionaries\four\bin\Debug\netcoreapp3.1\four.pdb
+D:\VisualStudioProjects\Dictionaries\four\obj\Debug\netcoreapp3.1\four.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Dictionaries\four\obj\Debug\netcoreapp3.1\four.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Dictionaries\four\obj\Debug\netcoreapp3.1\four.AssemblyInfo.cs
+D:\VisualStudioProjects\Dictionaries\four\obj\Debug\netcoreapp3.1\four.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Dictionaries\four\obj\Debug\netcoreapp3.1\four.dll
+D:\VisualStudioProjects\Dictionaries\four\obj\Debug\netcoreapp3.1\four.pdb
+D:\VisualStudioProjects\Dictionaries\four\obj\Debug\netcoreapp3.1\four.genruntimeconfig.cache

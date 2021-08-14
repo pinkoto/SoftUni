@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+D:\VisualStudioProjects\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+D:\VisualStudioProjects\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+D:\VisualStudioProjects\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+D:\VisualStudioProjects\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+D:\VisualStudioProjects\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+D:\VisualStudioProjects\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+D:\VisualStudioProjects\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+D:\VisualStudioProjects\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+D:\VisualStudioProjects\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache

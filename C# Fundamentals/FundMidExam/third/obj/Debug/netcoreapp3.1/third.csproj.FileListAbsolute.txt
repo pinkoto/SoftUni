@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\FundMidExam\third\bin\Debug\netcoreapp3.1\third.exe
+D:\VisualStudioProjects\FundMidExam\third\bin\Debug\netcoreapp3.1\third.deps.json
+D:\VisualStudioProjects\FundMidExam\third\bin\Debug\netcoreapp3.1\third.runtimeconfig.json
+D:\VisualStudioProjects\FundMidExam\third\bin\Debug\netcoreapp3.1\third.runtimeconfig.dev.json
+D:\VisualStudioProjects\FundMidExam\third\bin\Debug\netcoreapp3.1\third.dll
+D:\VisualStudioProjects\FundMidExam\third\bin\Debug\netcoreapp3.1\third.pdb
+D:\VisualStudioProjects\FundMidExam\third\obj\Debug\netcoreapp3.1\third.csprojAssemblyReference.cache
+D:\VisualStudioProjects\FundMidExam\third\obj\Debug\netcoreapp3.1\third.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\FundMidExam\third\obj\Debug\netcoreapp3.1\third.AssemblyInfo.cs
+D:\VisualStudioProjects\FundMidExam\third\obj\Debug\netcoreapp3.1\third.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\FundMidExam\third\obj\Debug\netcoreapp3.1\third.dll
+D:\VisualStudioProjects\FundMidExam\third\obj\Debug\netcoreapp3.1\third.pdb
+D:\VisualStudioProjects\FundMidExam\third\obj\Debug\netcoreapp3.1\third.genruntimeconfig.cache

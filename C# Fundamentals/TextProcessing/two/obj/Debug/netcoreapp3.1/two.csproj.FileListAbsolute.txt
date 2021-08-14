@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\textprr\two\bin\Debug\netcoreapp3.1\two.exe
+D:\VisualStudioProjects\textprr\two\bin\Debug\netcoreapp3.1\two.deps.json
+D:\VisualStudioProjects\textprr\two\bin\Debug\netcoreapp3.1\two.runtimeconfig.json
+D:\VisualStudioProjects\textprr\two\bin\Debug\netcoreapp3.1\two.runtimeconfig.dev.json
+D:\VisualStudioProjects\textprr\two\bin\Debug\netcoreapp3.1\two.dll
+D:\VisualStudioProjects\textprr\two\bin\Debug\netcoreapp3.1\two.pdb
+D:\VisualStudioProjects\textprr\two\obj\Debug\netcoreapp3.1\two.csprojAssemblyReference.cache
+D:\VisualStudioProjects\textprr\two\obj\Debug\netcoreapp3.1\two.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\textprr\two\obj\Debug\netcoreapp3.1\two.AssemblyInfo.cs
+D:\VisualStudioProjects\textprr\two\obj\Debug\netcoreapp3.1\two.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\textprr\two\obj\Debug\netcoreapp3.1\two.dll
+D:\VisualStudioProjects\textprr\two\obj\Debug\netcoreapp3.1\two.pdb
+D:\VisualStudioProjects\textprr\two\obj\Debug\netcoreapp3.1\two.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\DefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.exe
+D:\VisualStudioProjects\DefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.deps.json
+D:\VisualStudioProjects\DefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.json
+D:\VisualStudioProjects\DefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.dev.json
+D:\VisualStudioProjects\DefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.dll
+D:\VisualStudioProjects\DefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.pdb
+D:\VisualStudioProjects\DefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.csprojAssemblyReference.cache
+D:\VisualStudioProjects\DefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\DefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfo.cs
+D:\VisualStudioProjects\DefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\DefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.dll
+D:\VisualStudioProjects\DefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.pdb
+D:\VisualStudioProjects\DefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.genruntimeconfig.cache

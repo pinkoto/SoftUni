@@ -1,0 +1,16 @@
+D:\VisualStudioProjects\Multidimensional Arrays\two\bin\Debug\net5.0\two.exe
+D:\VisualStudioProjects\Multidimensional Arrays\two\bin\Debug\net5.0\two.deps.json
+D:\VisualStudioProjects\Multidimensional Arrays\two\bin\Debug\net5.0\two.runtimeconfig.json
+D:\VisualStudioProjects\Multidimensional Arrays\two\bin\Debug\net5.0\two.runtimeconfig.dev.json
+D:\VisualStudioProjects\Multidimensional Arrays\two\bin\Debug\net5.0\two.dll
+D:\VisualStudioProjects\Multidimensional Arrays\two\bin\Debug\net5.0\ref\two.dll
+D:\VisualStudioProjects\Multidimensional Arrays\two\bin\Debug\net5.0\two.pdb
+D:\VisualStudioProjects\Multidimensional Arrays\two\obj\Debug\net5.0\two.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Multidimensional Arrays\two\obj\Debug\net5.0\two.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\Multidimensional Arrays\two\obj\Debug\net5.0\two.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Multidimensional Arrays\two\obj\Debug\net5.0\two.AssemblyInfo.cs
+D:\VisualStudioProjects\Multidimensional Arrays\two\obj\Debug\net5.0\two.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Multidimensional Arrays\two\obj\Debug\net5.0\two.dll
+D:\VisualStudioProjects\Multidimensional Arrays\two\obj\Debug\net5.0\ref\two.dll
+D:\VisualStudioProjects\Multidimensional Arrays\two\obj\Debug\net5.0\two.pdb
+D:\VisualStudioProjects\Multidimensional Arrays\two\obj\Debug\net5.0\two.genruntimeconfig.cache

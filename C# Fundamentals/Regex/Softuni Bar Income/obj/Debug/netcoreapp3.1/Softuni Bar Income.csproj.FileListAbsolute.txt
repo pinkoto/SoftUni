@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\Regex\Softuni Bar Income\obj\Debug\netcoreapp3.1\Softuni Bar Income.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Regex\Softuni Bar Income\obj\Debug\netcoreapp3.1\Softuni Bar Income.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Regex\Softuni Bar Income\obj\Debug\netcoreapp3.1\Softuni Bar Income.AssemblyInfo.cs
+D:\VisualStudioProjects\Regex\Softuni Bar Income\obj\Debug\netcoreapp3.1\Softuni Bar Income.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Regex\Softuni Bar Income\bin\Debug\netcoreapp3.1\Softuni Bar Income.exe
+D:\VisualStudioProjects\Regex\Softuni Bar Income\bin\Debug\netcoreapp3.1\Softuni Bar Income.deps.json
+D:\VisualStudioProjects\Regex\Softuni Bar Income\bin\Debug\netcoreapp3.1\Softuni Bar Income.runtimeconfig.json
+D:\VisualStudioProjects\Regex\Softuni Bar Income\bin\Debug\netcoreapp3.1\Softuni Bar Income.runtimeconfig.dev.json
+D:\VisualStudioProjects\Regex\Softuni Bar Income\bin\Debug\netcoreapp3.1\Softuni Bar Income.dll
+D:\VisualStudioProjects\Regex\Softuni Bar Income\bin\Debug\netcoreapp3.1\Softuni Bar Income.pdb
+D:\VisualStudioProjects\Regex\Softuni Bar Income\obj\Debug\netcoreapp3.1\Softuni Bar Income.dll
+D:\VisualStudioProjects\Regex\Softuni Bar Income\obj\Debug\netcoreapp3.1\Softuni Bar Income.pdb
+D:\VisualStudioProjects\Regex\Softuni Bar Income\obj\Debug\netcoreapp3.1\Softuni Bar Income.genruntimeconfig.cache

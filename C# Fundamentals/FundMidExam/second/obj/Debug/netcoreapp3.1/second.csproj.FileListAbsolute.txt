@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\FundMidExam\second\bin\Debug\netcoreapp3.1\second.exe
+D:\VisualStudioProjects\FundMidExam\second\bin\Debug\netcoreapp3.1\second.deps.json
+D:\VisualStudioProjects\FundMidExam\second\bin\Debug\netcoreapp3.1\second.runtimeconfig.json
+D:\VisualStudioProjects\FundMidExam\second\bin\Debug\netcoreapp3.1\second.runtimeconfig.dev.json
+D:\VisualStudioProjects\FundMidExam\second\bin\Debug\netcoreapp3.1\second.dll
+D:\VisualStudioProjects\FundMidExam\second\bin\Debug\netcoreapp3.1\second.pdb
+D:\VisualStudioProjects\FundMidExam\second\obj\Debug\netcoreapp3.1\second.csprojAssemblyReference.cache
+D:\VisualStudioProjects\FundMidExam\second\obj\Debug\netcoreapp3.1\second.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\FundMidExam\second\obj\Debug\netcoreapp3.1\second.AssemblyInfo.cs
+D:\VisualStudioProjects\FundMidExam\second\obj\Debug\netcoreapp3.1\second.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\FundMidExam\second\obj\Debug\netcoreapp3.1\second.dll
+D:\VisualStudioProjects\FundMidExam\second\obj\Debug\netcoreapp3.1\second.pdb
+D:\VisualStudioProjects\FundMidExam\second\obj\Debug\netcoreapp3.1\second.genruntimeconfig.cache

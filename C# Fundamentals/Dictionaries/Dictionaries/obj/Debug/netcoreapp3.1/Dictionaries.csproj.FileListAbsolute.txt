@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.exe
+D:\VisualStudioProjects\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.deps.json
+D:\VisualStudioProjects\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.json
+D:\VisualStudioProjects\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.dev.json
+D:\VisualStudioProjects\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.dll
+D:\VisualStudioProjects\Dictionaries\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.pdb
+D:\VisualStudioProjects\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfo.cs
+D:\VisualStudioProjects\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.dll
+D:\VisualStudioProjects\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.pdb
+D:\VisualStudioProjects\Dictionaries\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.genruntimeconfig.cache

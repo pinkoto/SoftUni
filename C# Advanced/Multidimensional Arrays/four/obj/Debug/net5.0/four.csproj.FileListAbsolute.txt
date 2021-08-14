@@ -1,0 +1,16 @@
+D:\VisualStudioProjects\Multidimensional Arrays\four\bin\Debug\net5.0\four.exe
+D:\VisualStudioProjects\Multidimensional Arrays\four\bin\Debug\net5.0\four.deps.json
+D:\VisualStudioProjects\Multidimensional Arrays\four\bin\Debug\net5.0\four.runtimeconfig.json
+D:\VisualStudioProjects\Multidimensional Arrays\four\bin\Debug\net5.0\four.runtimeconfig.dev.json
+D:\VisualStudioProjects\Multidimensional Arrays\four\bin\Debug\net5.0\four.dll
+D:\VisualStudioProjects\Multidimensional Arrays\four\bin\Debug\net5.0\ref\four.dll
+D:\VisualStudioProjects\Multidimensional Arrays\four\bin\Debug\net5.0\four.pdb
+D:\VisualStudioProjects\Multidimensional Arrays\four\obj\Debug\net5.0\four.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Multidimensional Arrays\four\obj\Debug\net5.0\four.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\Multidimensional Arrays\four\obj\Debug\net5.0\four.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Multidimensional Arrays\four\obj\Debug\net5.0\four.AssemblyInfo.cs
+D:\VisualStudioProjects\Multidimensional Arrays\four\obj\Debug\net5.0\four.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Multidimensional Arrays\four\obj\Debug\net5.0\four.dll
+D:\VisualStudioProjects\Multidimensional Arrays\four\obj\Debug\net5.0\ref\four.dll
+D:\VisualStudioProjects\Multidimensional Arrays\four\obj\Debug\net5.0\four.pdb
+D:\VisualStudioProjects\Multidimensional Arrays\four\obj\Debug\net5.0\four.genruntimeconfig.cache

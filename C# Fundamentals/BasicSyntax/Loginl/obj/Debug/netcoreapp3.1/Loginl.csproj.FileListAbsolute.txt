@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\BasicSyntax\Loginl\bin\Debug\netcoreapp3.1\Loginl.exe
+D:\VisualStudioProjects\BasicSyntax\Loginl\bin\Debug\netcoreapp3.1\Loginl.deps.json
+D:\VisualStudioProjects\BasicSyntax\Loginl\bin\Debug\netcoreapp3.1\Loginl.runtimeconfig.json
+D:\VisualStudioProjects\BasicSyntax\Loginl\bin\Debug\netcoreapp3.1\Loginl.runtimeconfig.dev.json
+D:\VisualStudioProjects\BasicSyntax\Loginl\bin\Debug\netcoreapp3.1\Loginl.dll
+D:\VisualStudioProjects\BasicSyntax\Loginl\bin\Debug\netcoreapp3.1\Loginl.pdb
+D:\VisualStudioProjects\BasicSyntax\Loginl\obj\Debug\netcoreapp3.1\Loginl.csprojAssemblyReference.cache
+D:\VisualStudioProjects\BasicSyntax\Loginl\obj\Debug\netcoreapp3.1\Loginl.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\BasicSyntax\Loginl\obj\Debug\netcoreapp3.1\Loginl.AssemblyInfo.cs
+D:\VisualStudioProjects\BasicSyntax\Loginl\obj\Debug\netcoreapp3.1\Loginl.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\BasicSyntax\Loginl\obj\Debug\netcoreapp3.1\Loginl.dll
+D:\VisualStudioProjects\BasicSyntax\Loginl\obj\Debug\netcoreapp3.1\Loginl.pdb
+D:\VisualStudioProjects\BasicSyntax\Loginl\obj\Debug\netcoreapp3.1\Loginl.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\AbstractionAndInterfaces\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+D:\VisualStudioProjects\AbstractionAndInterfaces\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+D:\VisualStudioProjects\AbstractionAndInterfaces\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+D:\VisualStudioProjects\AbstractionAndInterfaces\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+D:\VisualStudioProjects\AbstractionAndInterfaces\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+D:\VisualStudioProjects\AbstractionAndInterfaces\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+D:\VisualStudioProjects\AbstractionAndInterfaces\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\AbstractionAndInterfaces\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\AbstractionAndInterfaces\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+D:\VisualStudioProjects\AbstractionAndInterfaces\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\AbstractionAndInterfaces\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+D:\VisualStudioProjects\AbstractionAndInterfaces\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+D:\VisualStudioProjects\AbstractionAndInterfaces\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache

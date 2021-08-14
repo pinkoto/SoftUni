@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\textprr\textprr\bin\Debug\netcoreapp3.1\textprr.exe
+D:\VisualStudioProjects\textprr\textprr\bin\Debug\netcoreapp3.1\textprr.deps.json
+D:\VisualStudioProjects\textprr\textprr\bin\Debug\netcoreapp3.1\textprr.runtimeconfig.json
+D:\VisualStudioProjects\textprr\textprr\bin\Debug\netcoreapp3.1\textprr.runtimeconfig.dev.json
+D:\VisualStudioProjects\textprr\textprr\bin\Debug\netcoreapp3.1\textprr.dll
+D:\VisualStudioProjects\textprr\textprr\bin\Debug\netcoreapp3.1\textprr.pdb
+D:\VisualStudioProjects\textprr\textprr\obj\Debug\netcoreapp3.1\textprr.csprojAssemblyReference.cache
+D:\VisualStudioProjects\textprr\textprr\obj\Debug\netcoreapp3.1\textprr.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\textprr\textprr\obj\Debug\netcoreapp3.1\textprr.AssemblyInfo.cs
+D:\VisualStudioProjects\textprr\textprr\obj\Debug\netcoreapp3.1\textprr.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\textprr\textprr\obj\Debug\netcoreapp3.1\textprr.dll
+D:\VisualStudioProjects\textprr\textprr\obj\Debug\netcoreapp3.1\textprr.pdb
+D:\VisualStudioProjects\textprr\textprr\obj\Debug\netcoreapp3.1\textprr.genruntimeconfig.cache

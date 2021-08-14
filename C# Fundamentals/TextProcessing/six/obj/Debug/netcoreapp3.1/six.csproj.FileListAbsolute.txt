@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\textprr\six\bin\Debug\netcoreapp3.1\six.exe
+D:\VisualStudioProjects\textprr\six\bin\Debug\netcoreapp3.1\six.deps.json
+D:\VisualStudioProjects\textprr\six\bin\Debug\netcoreapp3.1\six.runtimeconfig.json
+D:\VisualStudioProjects\textprr\six\bin\Debug\netcoreapp3.1\six.runtimeconfig.dev.json
+D:\VisualStudioProjects\textprr\six\bin\Debug\netcoreapp3.1\six.dll
+D:\VisualStudioProjects\textprr\six\bin\Debug\netcoreapp3.1\six.pdb
+D:\VisualStudioProjects\textprr\six\obj\Debug\netcoreapp3.1\six.csprojAssemblyReference.cache
+D:\VisualStudioProjects\textprr\six\obj\Debug\netcoreapp3.1\six.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\textprr\six\obj\Debug\netcoreapp3.1\six.AssemblyInfo.cs
+D:\VisualStudioProjects\textprr\six\obj\Debug\netcoreapp3.1\six.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\textprr\six\obj\Debug\netcoreapp3.1\six.dll
+D:\VisualStudioProjects\textprr\six\obj\Debug\netcoreapp3.1\six.pdb
+D:\VisualStudioProjects\textprr\six\obj\Debug\netcoreapp3.1\six.genruntimeconfig.cache

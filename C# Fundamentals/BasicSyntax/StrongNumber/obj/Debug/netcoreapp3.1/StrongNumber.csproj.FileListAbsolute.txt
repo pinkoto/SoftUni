@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\BasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.exe
+D:\VisualStudioProjects\BasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.deps.json
+D:\VisualStudioProjects\BasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.json
+D:\VisualStudioProjects\BasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.runtimeconfig.dev.json
+D:\VisualStudioProjects\BasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.dll
+D:\VisualStudioProjects\BasicSyntax\StrongNumber\bin\Debug\netcoreapp3.1\StrongNumber.pdb
+D:\VisualStudioProjects\BasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.csprojAssemblyReference.cache
+D:\VisualStudioProjects\BasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\BasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.AssemblyInfo.cs
+D:\VisualStudioProjects\BasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\BasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.dll
+D:\VisualStudioProjects\BasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.pdb
+D:\VisualStudioProjects\BasicSyntax\StrongNumber\obj\Debug\netcoreapp3.1\StrongNumber.genruntimeconfig.cache

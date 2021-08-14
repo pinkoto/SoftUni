@@ -1,0 +1,4 @@
+D:\VisualStudioProjects\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.AssemblyInfo.cs
+D:\VisualStudioProjects\Regex\Regex\obj\Debug\netcoreapp3.1\Regex.csproj.CoreCompileInputs.cache

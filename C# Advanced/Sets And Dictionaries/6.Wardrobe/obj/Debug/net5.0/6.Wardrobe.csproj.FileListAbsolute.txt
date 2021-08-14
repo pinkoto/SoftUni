@@ -1,0 +1,16 @@
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\bin\Debug\net5.0\6.Wardrobe.exe
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\bin\Debug\net5.0\6.Wardrobe.deps.json
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\bin\Debug\net5.0\6.Wardrobe.runtimeconfig.json
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\bin\Debug\net5.0\6.Wardrobe.runtimeconfig.dev.json
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\bin\Debug\net5.0\6.Wardrobe.dll
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\bin\Debug\net5.0\ref\6.Wardrobe.dll
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\bin\Debug\net5.0\6.Wardrobe.pdb
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\obj\Debug\net5.0\6.Wardrobe.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\obj\Debug\net5.0\6.Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\obj\Debug\net5.0\6.Wardrobe.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\obj\Debug\net5.0\6.Wardrobe.AssemblyInfo.cs
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\obj\Debug\net5.0\6.Wardrobe.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\obj\Debug\net5.0\6.Wardrobe.dll
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\obj\Debug\net5.0\ref\6.Wardrobe.dll
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\obj\Debug\net5.0\6.Wardrobe.pdb
+D:\VisualStudioProjects\Sets And Dictionaries\6.Wardrobe\obj\Debug\net5.0\6.Wardrobe.genruntimeconfig.cache

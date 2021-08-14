@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\Regex\Race\bin\Debug\netcoreapp3.1\Race.exe
+D:\VisualStudioProjects\Regex\Race\bin\Debug\netcoreapp3.1\Race.deps.json
+D:\VisualStudioProjects\Regex\Race\bin\Debug\netcoreapp3.1\Race.runtimeconfig.json
+D:\VisualStudioProjects\Regex\Race\bin\Debug\netcoreapp3.1\Race.runtimeconfig.dev.json
+D:\VisualStudioProjects\Regex\Race\bin\Debug\netcoreapp3.1\Race.dll
+D:\VisualStudioProjects\Regex\Race\bin\Debug\netcoreapp3.1\Race.pdb
+D:\VisualStudioProjects\Regex\Race\obj\Debug\netcoreapp3.1\Race.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Regex\Race\obj\Debug\netcoreapp3.1\Race.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Regex\Race\obj\Debug\netcoreapp3.1\Race.AssemblyInfo.cs
+D:\VisualStudioProjects\Regex\Race\obj\Debug\netcoreapp3.1\Race.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Regex\Race\obj\Debug\netcoreapp3.1\Race.dll
+D:\VisualStudioProjects\Regex\Race\obj\Debug\netcoreapp3.1\Race.pdb
+D:\VisualStudioProjects\Regex\Race\obj\Debug\netcoreapp3.1\Race.genruntimeconfig.cache

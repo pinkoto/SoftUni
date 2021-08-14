@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\DefiningClasses\one\bin\Debug\netcoreapp3.1\one.exe
+D:\VisualStudioProjects\DefiningClasses\one\bin\Debug\netcoreapp3.1\one.deps.json
+D:\VisualStudioProjects\DefiningClasses\one\bin\Debug\netcoreapp3.1\one.runtimeconfig.json
+D:\VisualStudioProjects\DefiningClasses\one\bin\Debug\netcoreapp3.1\one.runtimeconfig.dev.json
+D:\VisualStudioProjects\DefiningClasses\one\bin\Debug\netcoreapp3.1\one.dll
+D:\VisualStudioProjects\DefiningClasses\one\bin\Debug\netcoreapp3.1\one.pdb
+D:\VisualStudioProjects\DefiningClasses\one\obj\Debug\netcoreapp3.1\one.csprojAssemblyReference.cache
+D:\VisualStudioProjects\DefiningClasses\one\obj\Debug\netcoreapp3.1\one.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\DefiningClasses\one\obj\Debug\netcoreapp3.1\one.AssemblyInfo.cs
+D:\VisualStudioProjects\DefiningClasses\one\obj\Debug\netcoreapp3.1\one.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\DefiningClasses\one\obj\Debug\netcoreapp3.1\one.dll
+D:\VisualStudioProjects\DefiningClasses\one\obj\Debug\netcoreapp3.1\one.pdb
+D:\VisualStudioProjects\DefiningClasses\one\obj\Debug\netcoreapp3.1\one.genruntimeconfig.cache

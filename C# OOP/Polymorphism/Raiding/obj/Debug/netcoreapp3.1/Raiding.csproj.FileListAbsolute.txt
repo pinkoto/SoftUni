@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\Polymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+D:\VisualStudioProjects\Polymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+D:\VisualStudioProjects\Polymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+D:\VisualStudioProjects\Polymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+D:\VisualStudioProjects\Polymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+D:\VisualStudioProjects\Polymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+D:\VisualStudioProjects\Polymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\Polymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Polymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+D:\VisualStudioProjects\Polymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Polymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+D:\VisualStudioProjects\Polymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+D:\VisualStudioProjects\Polymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache

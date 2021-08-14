@@ -1,0 +1,13 @@
+D:\VisualStudioProjects\Lists\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.exe
+D:\VisualStudioProjects\Lists\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.deps.json
+D:\VisualStudioProjects\Lists\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.runtimeconfig.json
+D:\VisualStudioProjects\Lists\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.runtimeconfig.dev.json
+D:\VisualStudioProjects\Lists\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.dll
+D:\VisualStudioProjects\Lists\ListOperations\bin\Debug\netcoreapp3.1\ListOperations.pdb
+D:\VisualStudioProjects\Lists\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Lists\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Lists\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.AssemblyInfo.cs
+D:\VisualStudioProjects\Lists\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Lists\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.dll
+D:\VisualStudioProjects\Lists\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.pdb
+D:\VisualStudioProjects\Lists\ListOperations\obj\Debug\netcoreapp3.1\ListOperations.genruntimeconfig.cache

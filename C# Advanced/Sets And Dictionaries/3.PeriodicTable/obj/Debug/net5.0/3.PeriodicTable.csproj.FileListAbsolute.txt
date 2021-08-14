@@ -1,0 +1,16 @@
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\obj\Debug\net5.0\3.PeriodicTable.csprojAssemblyReference.cache
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\obj\Debug\net5.0\3.PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\obj\Debug\net5.0\3.PeriodicTable.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\obj\Debug\net5.0\3.PeriodicTable.AssemblyInfo.cs
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\obj\Debug\net5.0\3.PeriodicTable.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\bin\Debug\net5.0\3.PeriodicTable.exe
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\bin\Debug\net5.0\3.PeriodicTable.deps.json
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\bin\Debug\net5.0\3.PeriodicTable.runtimeconfig.json
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\bin\Debug\net5.0\3.PeriodicTable.runtimeconfig.dev.json
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\bin\Debug\net5.0\3.PeriodicTable.dll
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\bin\Debug\net5.0\ref\3.PeriodicTable.dll
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\bin\Debug\net5.0\3.PeriodicTable.pdb
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\obj\Debug\net5.0\3.PeriodicTable.dll
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\obj\Debug\net5.0\ref\3.PeriodicTable.dll
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\obj\Debug\net5.0\3.PeriodicTable.pdb
+D:\VisualStudioProjects\1.Unique\3.PeriodicTable\obj\Debug\net5.0\3.PeriodicTable.genruntimeconfig.cache

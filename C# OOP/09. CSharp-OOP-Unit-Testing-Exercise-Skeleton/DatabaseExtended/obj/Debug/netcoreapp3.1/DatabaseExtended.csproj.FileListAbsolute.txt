@@ -1,0 +1,9 @@
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.deps.json
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.AssemblyInfo.cs
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.dll
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\DatabaseExtended\obj\Debug\netcoreapp3.1\DatabaseExtended.pdb

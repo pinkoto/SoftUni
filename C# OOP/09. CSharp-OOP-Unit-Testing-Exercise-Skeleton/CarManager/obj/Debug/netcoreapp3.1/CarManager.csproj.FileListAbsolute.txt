@@ -1,0 +1,9 @@
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+D:\VisualStudioProjects\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb

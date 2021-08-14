@@ -1,0 +1,16 @@
+D:\VisualStudioProjects\Multidimensional Arrays\three\obj\Debug\net5.0\three.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Multidimensional Arrays\three\obj\Debug\net5.0\three.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\Multidimensional Arrays\three\obj\Debug\net5.0\three.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Multidimensional Arrays\three\obj\Debug\net5.0\three.AssemblyInfo.cs
+D:\VisualStudioProjects\Multidimensional Arrays\three\obj\Debug\net5.0\three.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Multidimensional Arrays\three\bin\Debug\net5.0\three.exe
+D:\VisualStudioProjects\Multidimensional Arrays\three\bin\Debug\net5.0\three.deps.json
+D:\VisualStudioProjects\Multidimensional Arrays\three\bin\Debug\net5.0\three.runtimeconfig.json
+D:\VisualStudioProjects\Multidimensional Arrays\three\bin\Debug\net5.0\three.runtimeconfig.dev.json
+D:\VisualStudioProjects\Multidimensional Arrays\three\bin\Debug\net5.0\three.dll
+D:\VisualStudioProjects\Multidimensional Arrays\three\bin\Debug\net5.0\ref\three.dll
+D:\VisualStudioProjects\Multidimensional Arrays\three\bin\Debug\net5.0\three.pdb
+D:\VisualStudioProjects\Multidimensional Arrays\three\obj\Debug\net5.0\three.dll
+D:\VisualStudioProjects\Multidimensional Arrays\three\obj\Debug\net5.0\ref\three.dll
+D:\VisualStudioProjects\Multidimensional Arrays\three\obj\Debug\net5.0\three.pdb
+D:\VisualStudioProjects\Multidimensional Arrays\three\obj\Debug\net5.0\three.genruntimeconfig.cache
