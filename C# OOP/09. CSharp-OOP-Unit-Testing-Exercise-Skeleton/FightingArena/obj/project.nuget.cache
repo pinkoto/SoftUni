@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I5pgaTzs+nSV773aKfdbmYW9d4tnI6QL7yjSrJv+IyjI1qyexbYrynpWPYtaOSuPpDQEDyQkmx6DJdXbIijsEQ==",
+  "dgSpecHash": "yX4WduK1tqA1H8ISe3GFnN2CM15zuoLXiayUrv/OXu2oX0V5UI8hv9chfAgFqL51C54l1Oi2hHGBVPIjetWvMQ==",
   "success": true,
-  "projectFilePath": "D:\\VisualStudioProjects\\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\FightingArena\\FightingArena.csproj",
+  "projectFilePath": "D:\\VisualStudioProjects\\Repos\\SoftUni\\C# OOP\\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\FightingArena\\FightingArena.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

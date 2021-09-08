@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3YGZHnadXJ7JxemcioPEPl0dpE+RUfmOR0DqpMsdtKPtgVcn9yGH+9erXRqA1Xe5nSTi2y/SOd4Y8F87kmmyIA==",
+  "dgSpecHash": "8gLmXzfvt+fkoVJlECENgrr5svgb7uTitGUQHP1d/tu+9EpBPTZ7ORJ6GZdLAmNrztRKqpOXhcrGOg9myF+oAw==",
   "success": true,
-  "projectFilePath": "D:\\VisualStudioProjects\\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj",
+  "projectFilePath": "D:\\VisualStudioProjects\\Repos\\SoftUni\\C# OOP\\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pako\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\pako\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

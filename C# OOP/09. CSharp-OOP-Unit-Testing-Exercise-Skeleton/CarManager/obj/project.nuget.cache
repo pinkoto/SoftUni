@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e0K3U5k6Kgl6Ero1UFSSuPL/8A6YPl4Fzy93B7XTJZnuJx4LBfCUizz25zktfrwREEPYniGuPZpsxaMD0QyG6w==",
+  "dgSpecHash": "T9TJVo1co6IuHVWMIBQ4sZGeCsWIHWbEV1eITI4WMu8Ip2/4lqEaUeMxYEeuSEoEedxVt0hxPITI3RAu+T/muQ==",
   "success": true,
-  "projectFilePath": "D:\\VisualStudioProjects\\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\CarManager\\CarManager.csproj",
+  "projectFilePath": "D:\\VisualStudioProjects\\Repos\\SoftUni\\C# OOP\\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\CarManager\\CarManager.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

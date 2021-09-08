@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XIUrVHkUIGSzRZVvFWFL2Zo/MH0sSo/VMCgrF0nrS3EsGMD9VBVu0ozBSqr3WAfkzgoU86v+yMUdVG/f3tJcAw==",
+  "dgSpecHash": "Mc8BEProO3j8XGaiXhO24m080UzRJ4UG4U03bQA63vdVyTCp2h88pgr9tOQgs+F3JoiD4cEnsEnACbsHMIjmsg==",
   "success": true,
-  "projectFilePath": "D:\\VisualStudioProjects\\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\FightingArena.Tests\\FightingArena.Tests.csproj",
+  "projectFilePath": "D:\\VisualStudioProjects\\Repos\\SoftUni\\C# OOP\\09. CSharp-OOP-Unit-Testing-Exercise-Skeleton\\FightingArena.Tests\\FightingArena.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pako\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\pako\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
